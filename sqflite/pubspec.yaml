@@ -18,6 +18,8 @@ flutter:
         pluginClass: SqflitePlugin
       macos:
         pluginClass: SqflitePlugin
+      linux:
+        pluginClass: SqflitePlugin
 
 
 dependencies:
